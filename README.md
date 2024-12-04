@@ -1,6 +1,6 @@
 # Data-Mining-II-T3
 
-#Market Basket Analysis: Task 3 - Customer Behavior Patterns in Market Basket Analysis
+# Market Basket Analysis: Task 3 - Customer Behavior Patterns in Market Basket Analysis
 
 Part I: Research Question
 A.  Describe the purpose of your data mining report by doing the following:
